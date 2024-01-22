@@ -1,0 +1,1 @@
+select* from kitaplar where kitapFiyat>=200 or yayinevi='ay' or kitapYazar='Reþat Nuri Güntekin'

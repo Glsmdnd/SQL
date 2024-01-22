@@ -1,0 +1,1 @@
+select* from kitaplar where kitapFiyat>=200

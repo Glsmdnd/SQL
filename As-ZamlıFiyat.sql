@@ -1,0 +1,1 @@
+select kitapAdi,kitapFiyat as eskiFiyat, kitapFiyat+3 as yeniFiyat from kitaplar

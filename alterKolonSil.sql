@@ -1,0 +1,1 @@
+Alter table ogrenci drop column ogrborc 

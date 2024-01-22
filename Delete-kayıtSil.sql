@@ -1,0 +1,1 @@
+delete from kitaplar where kitapAdi='gün olur asra bedel'

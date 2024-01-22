@@ -1,0 +1,1 @@
+select distinct yayinevi from kitaplar

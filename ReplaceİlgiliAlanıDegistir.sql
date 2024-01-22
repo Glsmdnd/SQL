@@ -1,0 +1,1 @@
+select kitapAdi, REPLACE(kitapYazar,'Reþat Nuri güntekin','R.Nuri Güntekin') from kitaplar

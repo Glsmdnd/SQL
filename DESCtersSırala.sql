@@ -1,0 +1,1 @@
+use kitaplik select* from kitaplar order by kitapAdi desc

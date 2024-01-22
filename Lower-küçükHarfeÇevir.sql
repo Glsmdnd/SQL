@@ -1,0 +1,1 @@
+select lower(kitapAdi) as 'küçük harf' from kitaplar

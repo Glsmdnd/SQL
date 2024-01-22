@@ -1,0 +1,1 @@
+select substring(kitapAdi,1,5)as 'Sadece 5 Karakter göster' from kitaplar

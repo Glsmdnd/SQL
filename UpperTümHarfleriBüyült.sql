@@ -1,0 +1,1 @@
+select Upper(kitapAdi) as 'BÜYÜK HARF' from kitaplar 

@@ -1,0 +1,1 @@
+select kitapAdi, len(kitapAdi) as 'karakter sayısı' from kitaplar
